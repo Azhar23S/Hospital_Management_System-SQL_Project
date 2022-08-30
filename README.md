@@ -19,7 +19,7 @@ This is built with primary key and foreign key to connect all the tables in the 
 Note:
 
 - This Project is done using <code>MySQL</code>
-- Created Database and Tables are written in Single SQL File and uploaded for user convenience.
+- Created Database and Tables are written in Single SQL File for user convenience.
 
 <h2>Objectives</h2>
 
